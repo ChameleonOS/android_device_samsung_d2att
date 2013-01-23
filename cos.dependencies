@@ -22,6 +22,18 @@
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
     "branch": "cm-10.1"
+  },
+  {
+    "project": "ChameleonOS",
+    "repository": "android_vendor_samsung_d2-common",
+    "target_path": "vendor/samsung/d2-common",
+    "branch": "jellybean-mr1"
+  },
+  {
+    "project": "ChameleonOS",
+    "repository": "android_vendor_samsung_d2att",
+    "target_path": "vendor/samsung/d2att",
+    "branch": "jellybean-mr1"
   }
 ]
 
