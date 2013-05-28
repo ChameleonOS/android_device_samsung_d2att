@@ -21,7 +21,7 @@
     "project": "ChameleonOS",
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "branch": "jellybean-mr1"
+    "branch": "jellybean-mr2"
   },
   {
     "project": "ChameleonOS",
