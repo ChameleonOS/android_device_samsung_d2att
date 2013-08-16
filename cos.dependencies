@@ -1,45 +1,39 @@
 [
   {
-    "project": "ChameleonOS",
+    "project": "CyanogenMod",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "jellybean-mr2.1"
+    "branch": "cm-10.2"
   },
   {
-    "project": "ChameleonOS",
+    "project": "CyanogenMod",
     "repository": "android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
-    "branch": "jellybean-mr2.1"
+    "branch": "cm-10.2"
   },
   {
-    "project": "ChameleonOS",
+    "project": "CyanogenMod",
     "repository": "android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
-    "branch": "jellybean-mr2.1"
+    "branch": "cm-10.2"
   },
   {
-    "project": "ChameleonOS",
+    "project": "CyanogenMod",
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "jellybean-mr2.1"
+    "branch": "cm-10.2"
   },
   {
-    "project": "ChameleonOS",
+    "project": "CyanogenMod",
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "branch": "jellybean-mr2.1"
+    "branch": "cm-10.2"
   },
   {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_samsung_d2-common",
-    "target_path": "vendor/samsung/d2-common",
-    "branch": "jellybean-mr2.1"
+    "project": "TheMuppets",
+    "repository": "android_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch": "cm-10.2"
   },
-  {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_samsung_d2att",
-    "target_path": "vendor/samsung/d2att",
-    "branch": "jellybean-mr2.1"
-  }
 ]
 
