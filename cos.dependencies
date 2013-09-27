@@ -12,10 +12,10 @@
     "branch": "cm-10.2"
   },
   {
-    "project": "CyanogenMod",
+    "project": "ChameleonOS",
     "repository": "android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
-    "branch": "cm-10.2"
+    "branch": "jellybean-mr2.1"
   },
   {
     "project": "CyanogenMod",
