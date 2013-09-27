@@ -34,6 +34,6 @@
     "repository": "android_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch": "cm-10.2"
-  },
+  }
 ]
 
